@@ -30,7 +30,7 @@ h1
 }
 .top-banner{
     /* border: 2px solid red; */
-    background-image: url("C:\\Users\\BIDHAN\\Desktop\\Complete-Web-Development\\Projects\\Portfolio\\img\\top-banner.png");
+    background-image: url("img/top-banner.png");
     background-repeat: no-repeat;
     padding-top: 2%;
 
@@ -48,7 +48,7 @@ h1
     background-image: linear-gradient(45deg, blue, red) ;
 }
 .middle-part{
-    background-image: url("C:\\Users\\BIDHAN\\Desktop\\Complete-Web-Development\\Projects\\Portfolio\\img\\dream-bg.png");
+    background-image: url("img/dream-bg.png");
     width: 100%;
     height: 490px;
     background-repeat: no-repeat;
@@ -74,7 +74,7 @@ h1
     /* border: 2px solid yellow; */
     width: 100%;
     height: 500px;
-    background-image: url("C:\\Users\\BIDHAN\\Desktop\\Complete-Web-Development\\Projects\\Portfolio\\img\\exp-bg.png");
+    background-image: url("img/exp-bg.png");
     background-position: left;
     background-repeat: no-repeat;
 }
