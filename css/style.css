@@ -22,6 +22,7 @@ h1
 .half-width img{
     width: 90%;
     padding-left: 150px;
+    /* border: 2px solid red; */
 }
 #first{
     padding-left: 15%;
@@ -45,4 +46,81 @@ h1
     color: yellow;
     font-weight: 700;
     background-image: linear-gradient(45deg, blue, red) ;
+}
+.middle-part{
+    background-image: url("C:\\Users\\BIDHAN\\Desktop\\Complete-Web-Development\\Projects\\Portfolio\\img\\dream-bg.png");
+    width: 100%;
+    height: 490px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.left img{
+    /* border: 3px solid blue; */
+    margin-left: -40px;
+    width: 70%;
+}
+/* .middle-part{
+    border: 3px blue solid;
+    width: 100%;
+    height: 500px;
+    /* background-image: url("C:\\Users\\BIDHAN\\Desktop\\Complete-Web-Development\\Projects\\Portfolio\\img\\my-bg2png"); */
+#right{
+    /* border: 2px solid red; */
+    width: 100%;
+    margin-left: 25%;
+    margin-top: 25px;
+}
+.exp-area{
+    /* border: 2px solid yellow; */
+    width: 100%;
+    height: 500px;
+    background-image: url("C:\\Users\\BIDHAN\\Desktop\\Complete-Web-Development\\Projects\\Portfolio\\img\\exp-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+}
+.exp-area h2{
+    font-weight: 700;
+    font-size: 35px;
+    padding-left: 5px;
+}
+.exp-area h3{
+    font-weight: bold;
+    font-size: 27px;
+}
+#first-block{
+    /* border: green 2px solid; */
+    border-left: 7px solid;
+    border-image: linear-gradient( blue,red) ;
+
+
+    border-image-slice: 1;
+    
+    width: 100%;
+    height: 336px;
+    margin-top: 13px;
+    margin-left: 75px;
+    padding-top: 20px ;
+    padding-left: 15px;
+    background: white;
+}
+#second-block{
+    /* border-left: blue 5px solid; */
+    border-left: 7px solid;
+    border-image: linear-gradient( blue, cyan) ;
+    border-image-slice: 1;
+    
+    margin-left: 35%;
+    width: 100%;
+    height: 345px;
+    margin-top: 15px;
+    padding-top: 10px ;
+    padding-left: 10px;
+    
+}
+.single-exp{
+    box-shadow: 10px 10px 30px gray;
+    /* border-radius: 3%; */
+}
+footer p{
+    text-align: center;
 }
